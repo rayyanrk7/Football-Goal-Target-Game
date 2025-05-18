@@ -1,5 +1,6 @@
 # Football-Goal-Target-Game
 A terminal-based football game where the player aims to reach a user-defined target goal count by drawing football legends and placing them in strategic multiplier slots.
+
 🎯 Features
 Load real player data (name goals) from a .txt file
 
